@@ -15,23 +15,6 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-# Prework - *Prework*
-
-Submitted by: **Mohammed Abdur Rahman**
-
-**Prework** is an app that has three text label that contains the developer's name, university name, and dream job.
-
-Time spent: **0.17** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] Users are see a screen with three labels and a button
-- [x] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
-
 <div>
     <a href="https://www.loom.com/share/3191812d3f5a4eb89448ea04c37589f0">
     </a>
